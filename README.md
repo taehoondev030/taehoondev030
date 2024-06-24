@@ -1,8 +1,10 @@
 <div align="center">
   Hello! I'm TaeHoon👋
 </div>
-
-
+<div align="center">
+  <img = "![SLCG](https://github.com/taehoondev030/taehoondev030/assets/173651747/e6f47a35-da1c-4a1c-a9ed-624946ed1edf)">
+</div>
+![SLCG](https://github.com/taehoondev030/taehoondev030/assets/173651747/e6f47a35-da1c-4a1c-a9ed-624946ed1edf)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehoondev030&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taehoon030)](https://solved.ac/taehoon030/)
