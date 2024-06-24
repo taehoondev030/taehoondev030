@@ -2,7 +2,7 @@
   <h1>Hello! I'm TaeHoon👋</h1>
 </div>
 <div align="center">
-  <img src="https://github.com/taehoondev030/taehoondev030/assets/173651747/60117e2f-4b88-4e22-a753-adec32cb4b6c">
+  <img src="https://github.com/taehoondev030/taehoondev030/assets/173651747/60117e2f-4b88-4e22-a753-adec32cb4b6c" width="450" height="450">
 </div>
 
 <br/><br/>
