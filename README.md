@@ -12,6 +12,7 @@
   <span>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
   </span>
 </div>
