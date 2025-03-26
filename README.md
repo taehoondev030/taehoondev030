@@ -1,51 +1,56 @@
-<!--
+<h1 align="center">🚀 Welcome to My GitHub 🚀</h1>
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fd602fb7-033e-4960-ac9a-f61671d4904c" width="500" height="300"/>  
-</div>
--->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Taehoon's%20GitHub&fontSize=40" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Backend+Developer;Hardworking+Person" alt="Typing SVG" />
 </div>
 
 
-<div align="center">
-  <h2> 👋 Hello!</h2>
-  Welcome to my GitHub! 😎
-</div>
-<br>
+---
 
+## 🏆 About Me  
+🔹 **I am Backend Developer** 🌐 <br>
+🔹 **I am currently learning the Spring Framework.** 📖  
+🔹 **I love listening to band music!** 🎸 
 
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+💡  I am passionate about crafting **high-quality** applications!  
+
+---
+
+## ⚡ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>-->
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openJDK&logoColor=white"/>
-</div>
-<br>
-
-
-<div align="center">
-  <h2> ✏️ I'm studying</h2>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</div>
-<br>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <br>
+ 
+  
+</p>
 
+---
 
-<div align='center'>
-  <h2> 📊 Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=taehoon030&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehoon030&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 🔥 Featured Projects  
+🚀 **[YeonDeung](https://github.com/taehoondev030/YeonDeung)** 
 
+---
 
-<div align="center">
-  <h2> 📫 Contact </h2>
-  <a href="mailto:taehoondev030@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  
-</div>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="180px"/> -->
+</p>
+
+---
+
+## 🎯 Fun Facts  
+- 🎮 Minecraft Lover
+- 🔧 I am still improving my development skills.
+- ☕ I'm a developer, but coffee is my natural enemy.
+
+---
+
+## 📬 Contact Me  
+📧 **Email:** taehoondev030@gmail.com  
+<!-- 💬 **Discord:** -->
